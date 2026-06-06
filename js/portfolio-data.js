@@ -47,13 +47,13 @@
       card: {
         initials: "SG",
         name: "Subham Ghosh",
-        role: "Former Software Engineer Trainee · Cognizant",
+        role: "System Engineer · TCS",
         meta: [
           { label: "Email", value: "shubhamofficial0910@gmail.com" },
           { label: "Location", value: "Kolkata" },
         ],
         links: [
-          { label: "LinkedIn", href: "https://www.linkedin.com/in/shubhamghosh" },
+          { label: "LinkedIn", href: "https://www.linkedin.com/in/shubhamgh" },
           { label: "GitHub", href: "https://github.com/eternaldevotee" },
         ],
       },
@@ -95,18 +95,38 @@
         {
           kind: "job",
           tilt: true,
+          company: "TCS",
+          role: "System Engineer",
+          badge: "Current",
+          meta: "June 2026 – Present · Kolkata",
+          bullets: [
+            "Working on it"
+],
+        },
+        {
+          kind: "job",
+          tilt: true,
           company: "Cognizant",
           role: "Software Engineer Trainee",
           // badge: "Current",
           meta: "Jul 2025 – May 2026 · Coimbatore/Kolkata",
-          bullets: [
-            "[timeline] Feb 2026 – May 2026  · Software Engineer Trainee",
-            "Built RESTful APIs with Spring Boot and integrated Angular frontend services.",
-            "Developed modular backend services following REST for scalable web apps.",
-            "[timeline] Jul 2025 – Feb 2026 · Programmer Analyst Trainee",
-            "Contributed to full-stack integration tasks across client project modules.",
-            "Supported backend and frontend implementation during delivery cycles.",
-          ],
+          bullets:  [
+  "[timeline] Feb 2026 – May 2026 · Software Engineer Trainee",
+  "Service Line : ADM",
+  "Worked on operational engineering, automation, and troubleshooting for a large-scale Generative AI platform serving a North American client.",
+  "Built Python-based reporting and monitoring utilities for tracking application and system metrics.",
+  "Analyzed production issues and contributed to incident investigation and resolution workflows.",
+  "Collaborated with cross-functional teams to improve platform reliability and operational efficiency.",
+  "Assisted in monitoring enterprise AI workflows and optimizing operational processes.",
+
+  "[timeline] Jul 2025 – Feb 2026 · Programmer Analyst Trainee",
+  "Service Line : ADM",
+  "Completed extensive training in Java Full Stack Development with Spring Boot and Angular.",
+  "Gained hands-on experience in building and integrating scalable web applications using Java, Spring Framework, Angular, and TypeScript.",
+  "Worked on backend development concepts including RESTful APIs, microservices fundamentals, and database integration.",
+  "Developed front-end components and responsive user interfaces using Angular and modern web technologies.",
+  "Strengthened understanding of full-stack application architecture, debugging, and software development best practices."
+],
         },
         {
           kind: "job",
